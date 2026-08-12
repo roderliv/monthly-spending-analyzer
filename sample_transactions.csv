@@ -1,0 +1,25 @@
+Date,Description,Original Description,Amount,Type,Parent Category,Category
+07/01/2026,Trader Joe's Run,TRADER JOES #501 SAN JOSE CA,45.32,Debit,Food & Dining,Groceries
+07/02/2026,Netflix Account,NETFLIX.COM 1-8009164117 CA,15.49,Debit,Uncategorized,Uncategorized
+07/02/2026,Hulu Account,HULU.COM 1-8009164117 CA,20.49,Debit,Uncategorized,Uncategorized
+07/03/2026,Coffee Break,STARBUCKS STORE 2214 SAN JOSE CA,6.75,Debit,Food & Dining,Coffee Shops
+07/03/2026,Gas Fill Up,SHELL OIL 5748291 SAN JOSE CA,52.10,Debit,Auto & Transport,Gas
+07/04/2026,Shopping Spree,TARGET T-0942 SAN JOSE CA,88.60,Debit,Shopping,Shopping
+07/05/2026,Paycheck Deposit,Deposit A+ MATH ST LLC / TYPE: PAYROLL ID: 1462800242 CO: A+ MATH ST LLC %% ACH ECC PPD %% ACH Trace 111000025609118,410.00,Credit,Income,Paycheck
+07/06/2026,Mystery Withdrawal,POS WITHDRAWAL 4471 SAN JOSE CA,25.00,Debit,Uncategorized,Uncategorized
+07/07/2026,Taco Tuesday,CHIPOTLE 1836 SAN JOSE CA,13.85,Debit,Food & Dining,Restaurants
+07/08/2026,Oil Change,VALVOLINE INSTANT OIL SAN JOSE CA,64.99,Debit,Auto & Transport,Service & Parts
+07/09/2026,Fast Food Run,IN-N-OUT BURGER #142 SAN JOSE CA,9.40,Debit,Food & Dining,Fast Food
+07/10/2026,Parking Downtown,SP PLUS PARKING SAN JOSE CA,12.00,Debit,Auto & Transport,Parking
+07/11/2026,CVS Pharmacy Pickup,CVS/PHARM #04213 SAN JOSE CA,31.18,Debit,Health & Fitness,Pharmacy
+07/12/2026,Freelance Design Gig,UNKNOWN MERCHANT PMT SAN JOSE CA,150.00,Debit,Uncategorized,Uncategorized
+07/13/2026,Book Haul,BARNES & NOBLE #2871 SAN JOSE CA,22.47,Debit,Shopping,Books
+07/14/2026,Podcast Subscription,PATREON* MEMBERSHIP SAN FRANCISCO CA,8.00,Debit,Entertainment,Podcast
+07/15/2026,Savings Transfer Out,Transfer To Share 20 On 07/15,300.00,Debit,Transfer,Transfer
+07/16/2026,Checking Transfer In,Transfer From Account 10 On 07/16,300.00,Credit,Transfer,Transfer
+07/17/2026,Venmo Cash In,Transfer From Venmo Instant SAN JOSE CA,45.00,Credit,Uncategorized,Uncategorized
+07/18/2026,Dividend Payout,SCHWAB BROKERAGE DIV SAN JOSE CA,18.55,Credit,Investments,Dividend & Cap Gains
+07/19/2026,Parent Rent Help,Deposit Home Banking Transfer  / From RODER,200.00,Credit,Transfer,Uncategorized
+07/20/2026,Consulting Invoice,SQ *CONSULTING SERVICES SAN JOSE CA,120.00,Debit,Business Services,Business Services
+07/21/2026,Weekend Groceries,SAFEWAY #1487 SAN JOSE CA,63.29,Debit,Food & Dining,Groceries
+07/22/2026,Yoga Class Drop-In,CLASSPASS SAN FRANCISCO CA,28.00,Debit,Health & Fitness,Uncategorized
