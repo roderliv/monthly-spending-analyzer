@@ -4,7 +4,7 @@
 
 Monthly Spending Analyzer is a command-line Python program that takes a raw bank transaction CSV export, cleans and categorizes it, and produces a polished PDF report summarizing a user's monthly spending. I built this project because I wanted a hands-on way to actually understand my own spending habits each month, rather than relying on my bank's built-in (and fairly limited) reporting tools.
 
-What it does
+#### What it does
 
 When you run project.py, the program walks through the following pipeline:
 
@@ -16,7 +16,7 @@ Identifies key insights. The program automatically determines the largest spendi
 Offers a deep dive. The user can optionally type in a specific category or parent category to investigate further. If they do, the program filters all transactions matching that selection down to a list the PDF can display in detail.
 Generates a PDF report. Using fpdf2, the program compiles everything above into a single PDF: a title banner, the pie chart, the bar chart and timeline chart side by side, the largest/most frequent spending category summaries, and, if the user requested it, a table listing every transaction (date, description, amount) under their chosen category.
 
-Files
+#### Files
 project.py — Contains main() and all supporting functions: CSV parsing and cleanup, interactive category correction, aggregation logic, chart generation, and PDF assembly. Functions are organized in roughly the order they're used by main(): data loading and cleaning first, then aggregation and filtering, then chart-building, then PDF generation last.
 test_project.py — Contains pytest-compatible unit tests for several of the project's core data-processing functions. I specifically chose functions that take structured data in and return structured data out, with no input() calls or file reading involved, since those are the functions that can be tested reliably against hand-built sample data and hand-calculated expected results.
 requirements.txt — Lists the external packages this project depends on (matplotlib and fpdf2) so they can be installed with pip install -r requirements.txt.
