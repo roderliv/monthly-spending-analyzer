@@ -1,7 +1,7 @@
-from project.project import only_spending_transactions
-from project.project import only_spending_dictionary
-from project.project import accumulate
-from project.project import total_income_spending
+from project import only_spending_transactions
+from project import only_spending_dictionary
+from project import accumulate
+from project import total_income_spending
 
 
 transactions_list = [

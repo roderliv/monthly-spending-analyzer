@@ -10,4 +10,4 @@ __pycache__/
 
 # Environment files
 .env
-venv/
+venv/.DS_Store
